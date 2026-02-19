@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alankrita0900
+- 👋 Hi, I’m Alankrita
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning cloud/DevOps
 - 📫 alankrita.hota@outlook.com
